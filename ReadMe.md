@@ -10,12 +10,7 @@
 
 <h2 align="center">
   <a href="#Install">Install</a> · <a href="#list-of-changes">Features</a> · <a href="https://discord.gg/momentum">Discord</a> · <a href="#%EF%B8%8F-support">Donate</a>
-</h2>
 
-This custom firmware is based on the [Official Firmware](https://github.com/flipperdevices/flipperzero-firmware) for [Flipper Zero](https://flipperzero.one/), and includes most of the awesome features from [Unleashed](https://github.com/DarkFlippers/unleashed-firmware). It is a direct continuation of the Xtreme firmware, built by the same (and only) developers who made that project special.
-
-<br>
-<h2 align="center">Modus Operandi</h2>
 
 BradWare is not a continuation — it's a deviation. A fork in the wire. While it respects the groundwork laid by Xtreme and Momentum, this project walks its own path with a colder stare and cleaner logic.
 
